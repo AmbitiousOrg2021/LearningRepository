@@ -1,1 +1,3 @@
 # LearningRepository
+This is the repository where i am learning git and open source contributions 
+and even you can use this to learn and make yourself better...
