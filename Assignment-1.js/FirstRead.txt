@@ -1,0 +1,2 @@
+This Folder is for learning Javascript and some file may seem incorrect and incomplete.
+Don't worry about the code it will be fixed soon as I am learning new things day-by-day.
